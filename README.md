@@ -2,7 +2,7 @@
 An inexpensive mounting system for Raspberry Pi and 2.5" SATA drive.
 
 ## Why?
-It seems counter intuitive to spend much money on case for a device that costs $35.
+It seems counterintuitive to spend a lot of money on case for a device that cost $35.
 
 ## How?
 You'll need some cardboard the size of a sheet of paper and about 1/8" to 1/4" thick.
