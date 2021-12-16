@@ -28,8 +28,10 @@ The difficulty in building this mounting system is the number of pieces that nee
 to do with cardboard and a box cutter. However, the design cound be adapted to use wood or acrylic materials that can be machine cut.
 
 ### Cardboard Pi 1
-The first attempt at a mounting system involves too much cutting and has a cable management system that is too cramped.
-Still, if you want to try it, it's [here](CardboardPi.pdf).
+The first attempt at a mounting system involves too much cutting and has a cable management system that is too cramped. The only
+advantage is it uses a small amount of meterial and requires only a few cuts.
+
+If you want to try it, it's [here](CardboardPi.pdf).
 
 ## Original Files
 The .ODG files can be opened and edited with LibreOffice Draw.
