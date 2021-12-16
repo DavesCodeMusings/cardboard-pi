@@ -21,5 +21,9 @@ Paper size is 8.5" x 11", but A4 should be close enough.
 The third iteration involves more stacking and layering and less folding. No screws are required to secure the components.
 It's a bit like building a Lego model. There is no need to print a template. Follow the instructions in [the PDF file](CardboardPi3.pdf)
 
+### Cardboard Pi 1
+The first attempt at a mounting system involves too much cutting and has a cable management system that is too cramped.
+Still, if you want to try it, it's [here](CardboardPi.pdf).
+
 ## Original Files
 The .ODG files can be opened and edited with LibreOffice Draw.
