@@ -7,6 +7,13 @@ It seems counterintuitive to spend a lot of money on case for a device that cost
 ## How?
 You'll need some cardboard about 1/8" to 1/4" thick. Something cut from a shipping box or flat from canned goods is ideal.
 
+To build:
+1. Print the template from the PDF.
+2. Follow the included instructions for assembly.
+3. Mount your Pi and SATA drive, route the cables, and bask in your thriftiness.
+
+Paper size is 8.5" x 11", but A4 should be close enough.
+
 ### Cardboard Pi Plate
 This is the simplest of all the designs. All you need is a single piece of cardboard, some screws, and some spacers.
 Spacers can be cut from cardboard scraps. The drawing is to scale, so just print the template and punch the holes.
@@ -16,13 +23,6 @@ _The number two does not indicate Raspberry Pi 2, it is simply the second attemp
 
 After the Cardboard Pi Plate, this is probably the most straighforward to build. It does, however, require screws to
 secure the Pi and the SATA drive.
-
-To build it:
-1. Print the template from [the PDF file](CardboardPi2.pdf).
-2. Follow the included instructions for assembly.
-3. Mount your Pi and SATA drive, route the cables, and bask in your thriftiness.
-
-Paper size is 8.5" x 11", but A4 should be close enough.
 
 ### Cardboard Pi 3
 The third iteration involves more stacking and layering and less folding. No screws are required to secure the components.
