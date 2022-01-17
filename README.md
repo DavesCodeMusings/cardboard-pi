@@ -7,6 +7,9 @@ It seems counterintuitive to spend a lot of money on case for a device that cost
 ## How?
 You'll need some cardboard about 1/8" to 1/4" thick. Something cut from a shipping box or flat from canned goods is ideal.
 
+### Cardboard Pi Plate
+This is the simplest of all the designs. All you need is a single piece of cardboard and some screws. Drawing is to scale, so just print the template and punch the holes.
+
 ### Cardboard Pi 2
 _The number two does not indicate Raspberry Pi 2, it is simply the second attempt at a cardboard mounting system._
 
