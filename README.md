@@ -14,7 +14,7 @@ Spacers can be cut from cardboard scraps. The drawing is to scale, so just print
 ### Cardboard Pi 2
 _The number two does not indicate Raspberry Pi 2, it is simply the second attempt at a cardboard mounting system._
 
-Of all the mounting systems here, this is probably the most straighforward to build. It does, however, require screws to
+After the Cardboard Pi Plate, this is probably the most straighforward to build. It does, however, require screws to
 secure the Pi and the SATA drive.
 
 To build it:
