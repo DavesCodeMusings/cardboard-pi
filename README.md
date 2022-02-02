@@ -20,6 +20,14 @@ Paper size is 8.5" x 11", but A4 should be close enough.
 
 ## Available Designs
 
+### Cardboard Pi Plate 2
+[PDF](https://github.com/DavesCodeMusings/cardboard-pi/blob/main/CarboardPiPlate2.pdf)
+
+This is an improvement over the original in that it is more suitable for wall mounting with plugin connectors above the components rather than below.
+This lets gravity work to keep the connectors plugged in, rather than relying on friction alone. There is also more space to route the power connector to the Pi.
+
+This is the one to use for simplicity.
+
 ### Cardboard Pi Plate
 [PDF](https://github.com/DavesCodeMusings/cardboard-pi/blob/main/CarboardPiPlate.pdf)
 
@@ -27,8 +35,6 @@ This is the simplest of all the designs. All you need is a single piece of cardb
 Spacers can be cut from cardboard scraps. The drawing is to scale, so just print the template and punch the holes.
 
 ### Cardboard Pi 2
-_The number two does not indicate Raspberry Pi 2, it is simply the second attempt at a cardboard mounting system._
-
 [PDF](https://github.com/DavesCodeMusings/cardboard-pi/blob/main/CardboardPi2.pdf)
 
 After the Cardboard Pi Plate, this is probably the most straighforward to build. It does, however, require screws to
